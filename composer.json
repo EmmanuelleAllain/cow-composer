@@ -1,0 +1,17 @@
+{
+    "name": "emmanuelle/quete-composer-3",
+    "autoload": {
+        "psr-4": {
+            "Emmanuelle\\QueteComposer3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EmmanuelleAllain",
+            "email": "e.allain13@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
